@@ -20,7 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunesmit&show_icons=true&locale=en&layout=compact" alt="gunesmit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gunesmit&show_icons=true&locale=en" alt="gunesmit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunesmit&" alt="gunesmit" /></p>
 
