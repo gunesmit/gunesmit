@@ -15,7 +15,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunesmit" alt="gunesmit" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunesmit&show_icons=true&locale=en&layout=compact" alt="gunesmit" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunesmit&" alt="gunesmit" /></p>
