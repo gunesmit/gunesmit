@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Güneş</h1>
 
-- 🌱 I’m currently learning **C and Java.**
+- 🌱 I’m currently learning **C# and Java.**
 
 <p align="left">
 </p>
